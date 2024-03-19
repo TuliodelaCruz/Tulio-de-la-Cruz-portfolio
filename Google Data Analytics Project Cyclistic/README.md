@@ -5,5 +5,5 @@ A hypothetical business challenge for a fictitious bicycle company is addressed 
 
 - This presentation briefly shows the business challenge of Cyclistic, it also shows the results obtained after the analysis, the conclusions, and recommendations based on the results.
 
-- This dashboard made in Tableau shows the most essential information to know the answer to the business question.
+- This dashboard made in Tableau shows the most essential information to know the answer to the business question. 
 
