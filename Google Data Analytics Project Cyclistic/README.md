@@ -3,7 +3,7 @@ A hypothetical business challenge for a fictitious bicycle company is addressed 
 
 - The report provides details of a hypothetical scenario involving a bike-sharing company and describes the process for data preparation using Excel, data cleaning and analysis using SQL, as well as data visualization using Tableau. Additionally, recommendations are proposed based on the conclusions reached from the analysis.
 
-- The presentation briefly shows the business challenge of Cyclistic, it also shows the results obtained after the analysis, the conclusions, and recommendations based on the results.
+- The presentation briefly shows the business challenge of Cyclistic, it also shows the results obtained after the analysis, the conclusions and recommendations.
 
 - The dashboard made in Tableau shows the most essential information to know the answer to the business question.
 
